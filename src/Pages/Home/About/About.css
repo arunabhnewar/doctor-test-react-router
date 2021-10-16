@@ -1,0 +1,16 @@
+.about-section {
+    background-image: url('../../../images/Banner&Background/background.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: overlay;
+    padding: 30px;
+}
+.about-name {
+    color: #192a56;
+}
+.about-title {
+    color: #3e58da;
+    font-weight: 700;
+}

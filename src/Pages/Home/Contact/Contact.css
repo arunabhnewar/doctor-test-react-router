@@ -1,0 +1,21 @@
+.input-field {
+    padding: 10px;
+    border: none;
+    outline: none !important;
+    border-bottom: 1px solid gray;
+    margin-top: 10px;
+    width: 50%;
+}
+.input-btn {
+    background-color: #192a56;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 25px;
+    color: white;
+    width: 50%;
+    margin-top: 20px;
+    transition: 0.6s linear;
+}
+.input-btn:hover {
+    background-color: #3e58da;
+}

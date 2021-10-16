@@ -1,0 +1,43 @@
+.features-name {
+    color: #192a56;
+    font-weight: 600;
+}
+.features-title {
+    color: #3e58da;
+    font-weight: 700;
+}
+.features-btn {
+    background-color:#192a56;
+    color: #fff;
+    transition: 0.5s linear;
+}
+.features-btn:hover {
+    background-color:#3e58da;
+    color: #fff;
+}
+
+.features1-btn {
+    background-color: #fff;
+    color: #000;
+    border: 1px solid gray;
+    transition: 0.5s linear;
+}
+.features1-btn:hover{
+    background-color:#3e58da;
+    color: #fff;
+}
+.product-name {
+    color: #192a56;
+    font-weight: 500;
+}
+.product-price {
+    color: #3e58da;
+    font-weight: 700;
+}
+.product img {
+    transition: all 500ms ease-in-out;
+    cursor: zoom-in;
+}
+.product:hover  img{
+    transform: scale(1.1);
+}

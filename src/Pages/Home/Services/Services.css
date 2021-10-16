@@ -1,0 +1,18 @@
+.services-name {
+    color: #192a56;
+    font-weight: 600;
+}
+.prevent-title {
+    color: #3e58da;
+    font-weight: 700;
+}
+.category {
+    transition: 0.6s;
+    border-radius: 5px;
+}
+.category:hover {
+    box-shadow: 2px 5px 10px gray;
+}
+.item-title {
+    color: #192a56;
+}
